@@ -1,0 +1,57 @@
+.same1{
+     margin-left: 50px; 
+     
+    
+}
+
+.FirstPart{
+
+    margin-left: 20px;
+    float: left;
+    
+}
+.Contact{
+
+font-size: 20px;
+
+}
+.SecondPart{
+
+    
+    margin-left: 43%;
+}
+.vl {
+    border-left:  dashed gray;
+    height: 870px;
+    margin-left: 20px;
+    float: left;
+  }
+  .vl2{
+    border-left:  dashed gray;
+    height: 800px;
+    float: left;
+    margin-left: 200px;
+  }
+  .Title{
+
+    font-size: 250%;
+  }
+  .SecondTitle{
+
+    font-size: 40px;
+  }
+  .colorsize{
+
+    color: steelblue;
+    font-size: 28px;
+  }
+
+  
+  
+
+
+
+
+
+
+
